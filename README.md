@@ -35,7 +35,7 @@ apt-get install -y  /tmp/clash-verge.deb
 
 开启系统代理，开启系统代理以后就不用为某个或某些应用配置代理。
 
-![enable system proxy](clash-verge-system-proxy-300x138.png)
+![enable system proxy](clash-verge-system-proxy.png)
 
 现在浏览器可以打开 [google.com](https://www.google.com/) 了。
 
