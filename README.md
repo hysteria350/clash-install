@@ -27,7 +27,7 @@ apt-get install -y  /tmp/clash-verge.deb
 
 ## 导入订阅
 
-先进行 [订阅购买](https://shortlink181.github.io/1) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
+先进行 [订阅购买](https://shortlink.20250812.xyz/1) ，获取到订阅链接。订阅链接位于：仪表盘 > 一键订阅 , 然后复制订阅地址或者扫描二维码订阅。
 
 ![导入订阅](https://getclashvergerev.org/assets/remote_url.C_pIdA2k.gif)
 
